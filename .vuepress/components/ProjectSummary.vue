@@ -6,7 +6,9 @@
         <div>
             <a :href="this.page.path"><h3>{{ title }}</h3></a>
         </div>
-        {{ this.page}}
+        <div>
+            <p>{{ summary }}</p>
+        </div>
     </div>
 </template>
 
@@ -42,6 +44,9 @@ export default {
             }
             image_url = `~${this.page.path}${image_url}`; // TODO: This is not yet supported by vuepress...
             return image_url;
+        },
+        summary: function() {
+            return this.page.frontmatter.summary
         }
     }
 }
