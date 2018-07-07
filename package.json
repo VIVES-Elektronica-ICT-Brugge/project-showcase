@@ -1,5 +1,20 @@
 {
-    "scripts": {
-      "docs:build": "vuepress build docs"
-    }
-  }
+  "name": "project-showcase",
+  "version": "0.0.1",
+  "description": "Showcase of VIVES EO-ICT projects",
+  "main": "README.md",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase.git"
+  },
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase/issues"
+  },
+  "homepage": "https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase#readme"
+}
