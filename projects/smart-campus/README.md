@@ -7,4 +7,4 @@ summary: 'Monitoring the campus using LoRaWAN to make it smarter'
 
 # Smart Campus
 
-![VIVES Smart-Campus website](smart-campus.png)
+![VIVES Smart-Campus website](./smart-campus.png)
