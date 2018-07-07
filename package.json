@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase/issues"
   },
-  "homepage": "https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase#readme"
+  "homepage": "https://github.com/VIVES-Elektronica-ICT-Brugge/project-showcase#readme",
+  "dependencies": {
+    "vuepress": "^0.10.2"
+  }
 }
