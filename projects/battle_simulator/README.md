@@ -15,7 +15,7 @@ The project was an assignment for the course Object Oriented Programming with C+
 
 At the beginning of the game, both players choose their weapons of choice and place them on the battlefield.
 
-![Choosing your weapons](./img/tanks.jpg)
+![Choosing your weapons](./img/tanks.png)
 
 Once all money is spend, it's a fight to the death between both players. May the best tanker win.
 
